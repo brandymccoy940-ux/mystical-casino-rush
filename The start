@@ -1,0 +1,4 @@
+npx create-next-app@latest mystical-casino-rush
+cd mystical-casino-rush
+npm install
+npm run dev
